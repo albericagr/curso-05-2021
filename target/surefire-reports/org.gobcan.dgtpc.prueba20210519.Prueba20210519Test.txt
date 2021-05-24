@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.gobcan.dgtpc.prueba20210519.Prueba20210519Test
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in org.gobcan.dgtpc.prueba20210519.Prueba20210519Test
