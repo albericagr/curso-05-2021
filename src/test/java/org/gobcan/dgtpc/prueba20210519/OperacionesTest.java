@@ -3,6 +3,7 @@ import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 public class OperacionesTest 
@@ -35,7 +36,8 @@ public class OperacionesTest
         assertEquals("La multiplicación ha dejado de ser correcta", 4, Operaciones.multiplicacion(2, 2));
         assertEquals("La multiplicación ha dejado de ser correcta", 100, Operaciones.multiplicacion(10, 10));
     }        
-
+    
+    @Ignore
     @Test
     public void pruebaDeDivision3Test()
     {
